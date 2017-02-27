@@ -1,2 +1,1 @@
-# www-pc
-Web page at peacecorps.jovial.com
+Web page at http://pc.jovial.com
