@@ -6,8 +6,8 @@
     <atom:link href="http://pc.jovial.com//feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Sat, 10 Jun 2017 21:41:01 -0700</pubDate>
-    <lastBuildDate>Sat, 10 Jun 2017 21:41:01 -0700</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2017 15:13:34 -0700</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2017 15:13:34 -0700</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
       <link>http://pc.jovial.com//posts/2017-01-18-why-pc.html</link>
@@ -42,6 +42,15 @@
       <guid isPermaLink="true">posts/2017-06-10-pre-departure.html</guid>
         <description>
           I'm all packed and ready to go.  I'm scheduled to arrive in the DC area tomorrow afternoon, and I should be in Ouagadougou on Wednesday.
+        </description>
+    </item>
+    <item>
+      <title>Arrived in Ouagadougou!</title>
+      <link>http://pc.jovial.com//posts/2017-06-25-arrived.html</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 -0700</pubDate>
+      <guid isPermaLink="true">posts/2017-06-25-arrived.html</guid>
+        <description>
+          I made it to Ouagadoug, and everything is going great!  I'm too mentally exhausted to write a real post, but I just wanted to get this word out, and let you all know my phone number.
         </description>
     </item>
   </channel> 
