@@ -6,12 +6,12 @@
     <atom:link href="http://pc.jovial.com//feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Thu, 15 Jun 2017 15:35:01 -0700</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2017 15:35:01 -0700</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2017 22:33:18 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2017 22:33:18 +0000</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
       <link>http://pc.jovial.com//posts/2017-01-18-why-pc.html</link>
-      <pubDate>Wed, 18 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">posts/2017-01-18-why-pc.html</guid>
         <description>
           A few words on why I decided to join the Peace Corps.
@@ -20,7 +20,7 @@
     <item>
       <title>Waiting for Clearances</title>
       <link>http://pc.jovial.com//posts/2017-02-26-waiting.html</link>
-      <pubDate>Sun, 26 Feb 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">posts/2017-02-26-waiting.html</guid>
         <description>
           With three months to go, I'm still waiting for my clearances to come through.  Things are a bit on hold until they do.
@@ -29,7 +29,7 @@
     <item>
       <title>Clearances Received!</title>
       <link>http://pc.jovial.com//posts/2017-04-12-clearances-received.html</link>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">posts/2017-04-12-clearances-received.html</guid>
         <description>
           I've gotten both my legal and medical clearance.  Barring major incident, I'll be in Ouagadougou on or about June 15!
@@ -38,7 +38,7 @@
     <item>
       <title>Pre-Departure</title>
       <link>http://pc.jovial.com//posts/2017-06-10-pre-departure.html</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">posts/2017-06-10-pre-departure.html</guid>
         <description>
           I'm all packed and ready to go.  I'm scheduled to arrive in the DC area tomorrow afternoon, and I should be in Ouagadougou on Wednesday.
@@ -46,11 +46,20 @@
     </item>
     <item>
       <title>Arrived in Ouagadougou!</title>
-      <link>http://pc.jovial.com//posts/2017-06-25-arrived.html</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 -0700</pubDate>
-      <guid isPermaLink="true">posts/2017-06-25-arrived.html</guid>
+      <link>http://pc.jovial.com//posts/2017-06-15-arrived.html</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2017-06-15-arrived.html</guid>
         <description>
           I made it to Ouagadougu, and everything is going great!  I'm too mentally exhausted to write a real post, but I just wanted to get this word out, and let you all know my phone number.
+        </description>
+    </item>
+    <item>
+      <title>Corrected Phone Number</title>
+      <link>http://pc.jovial.com//posts/2017-06-16-correction.html</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2017-06-16-correction.html</guid>
+        <description>
+          My apologies.  I had a typo in the phone number I sent out last time, and other typos.  I correct that here.
         </description>
     </item>
   </channel> 
