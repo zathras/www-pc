@@ -6,8 +6,8 @@
     <atom:link href="http://pc.jovial.com//feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Fri, 16 Jun 2017 22:33:18 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Jun 2017 22:33:18 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Jun 2017 20:59:25 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Jun 2017 20:59:25 +0000</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
       <link>http://pc.jovial.com//posts/2017-01-18-why-pc.html</link>
@@ -60,6 +60,15 @@
       <guid isPermaLink="true">posts/2017-06-16-correction.html</guid>
         <description>
           My apologies.  I had a typo in the phone number I sent out last time, and other typos.  I correct that here.
+        </description>
+    </item>
+    <item>
+      <title>Moving in to Léo</title>
+      <link>http://pc.jovial.com//posts/2017-06-20-leo.html</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2017-06-20-leo.html</guid>
+        <description>
+          We all came to the training center in Léo today, and I'm moving in to my home for the next three months.  I also found out where I'll be living for the two years after that!
         </description>
     </item>
   </channel> 
