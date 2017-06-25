@@ -6,8 +6,8 @@
     <atom:link href="http://pc.jovial.com//feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Tue, 20 Jun 2017 20:59:25 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Jun 2017 20:59:25 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Jun 2017 22:12:46 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Jun 2017 22:12:46 +0000</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
       <link>http://pc.jovial.com//posts/2017-01-18-why-pc.html</link>
@@ -69,6 +69,15 @@
       <guid isPermaLink="true">posts/2017-06-20-leo.html</guid>
         <description>
           We all came to the training center in Léo today, and I'm moving in to my home for the next three months.  I also found out where I'll be living for the two years after that!
+        </description>
+    </item>
+    <item>
+      <title>Happy Eid!</title>
+      <link>http://pc.jovial.com//posts/2017-06-25-eidalfitr.html</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2017-06-25-eidalfitr.html</guid>
+        <description>
+          Today was Eid al Fitr, the end of the month of Ramadan.  For a while, it became like the part of Halloween for kids.  I've got a few pictures of that, and me and some of the other PCTs.  In some ways, things are beginning to get a little tough, but it's still great to be here.
         </description>
     </item>
   </channel> 
