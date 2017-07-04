@@ -6,8 +6,8 @@
     <atom:link href="http://pc.jovial.com//feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Sun, 25 Jun 2017 22:12:46 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Jun 2017 22:12:46 +0000</lastBuildDate>
+    <pubDate>Tue, 4 Jul 2017 17:02:25 +0000</pubDate>
+    <lastBuildDate>Tue, 4 Jul 2017 17:02:25 +0000</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
       <link>http://pc.jovial.com//posts/2017-01-18-why-pc.html</link>
@@ -54,15 +54,6 @@
         </description>
     </item>
     <item>
-      <title>Corrected Phone Number</title>
-      <link>http://pc.jovial.com//posts/2017-06-16-correction.html</link>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">posts/2017-06-16-correction.html</guid>
-        <description>
-          My apologies.  I had a typo in the phone number I sent out last time, and other typos.  I correct that here.
-        </description>
-    </item>
-    <item>
       <title>Moving in to Léo</title>
       <link>http://pc.jovial.com//posts/2017-06-20-leo.html</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
@@ -78,6 +69,15 @@
       <guid isPermaLink="true">posts/2017-06-25-eidalfitr.html</guid>
         <description>
           Today was Eid al Fitr, the end of the month of Ramadan.  For a while, it became like the part of Halloween for kids.  I've got a few pictures of that, and me and some of the other PCTs.  In some ways, things are beginning to get a little tough, but it's still great to be here.
+        </description>
+    </item>
+    <item>
+      <title>Attrition Strikes</title>
+      <link>http://pc.jovial.com//posts/2017-07-04-attrition.html</link>
+      <pubDate>Tue, 4 Jul 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2017-07-04-attrition.html</guid>
+        <description>
+          Two more volunteers have gone home, which is rough.  I'm still doing well, though.  Everybody is looking forward to the site visit in a couple of weeks, when we'll get to see our new homes for the next two years.
         </description>
     </item>
   </channel> 
