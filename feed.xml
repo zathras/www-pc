@@ -6,8 +6,8 @@
     <atom:link href="http://pc.jovial.com//feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Wed, 5 Jul 2017 21:35:20 +0000</pubDate>
-    <lastBuildDate>Wed, 5 Jul 2017 21:35:20 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jul 2017 22:07:11 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2017 22:07:11 +0000</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
       <link>http://pc.jovial.com//posts/2017-01-18-why-pc.html</link>
@@ -87,6 +87,15 @@
       <guid isPermaLink="true">posts/2017-07-05-swaggy.html</guid>
         <description>
           We're getting all swaggy up in this mess.  Also, some more training, and some really bad jokes to go tô.
+        </description>
+    </item>
+    <item>
+      <title>A Little Bit Country</title>
+      <link>http://pc.jovial.com//posts/2017-07-10-campagne.html</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2017-07-10-campagne.html</guid>
+        <description>
+          Like Thoreau, I took up farming to know farming.  I lasted maybe five minutes, but took lots of pictures.  Also, a few observations on who do that voodoo that some do so well.
         </description>
     </item>
   </channel> 
