@@ -6,8 +6,8 @@
     <atom:link href="http://pc.jovial.com//feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Sat, 15 Jul 2017 09:10:53 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Jul 2017 09:10:53 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Jul 2017 17:20:56 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jul 2017 17:20:56 +0000</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
       <link>http://pc.jovial.com//posts/2017-01-18-why-pc.html</link>
@@ -105,6 +105,15 @@
       <guid isPermaLink="true">posts/2017-07-15-challenges.html</guid>
         <description>
           I've reached a Peace Corps milestone:  My first serious questioning of what I'm doing here, and if it's all worth it.  I think it is, but it's too soon for me to have an informed judgement; what is clear is that after learning more, I'll have some 'splaining to do to myself.
+        </description>
+    </item>
+    <item>
+      <title>Bicycle/Motorcycle Accident</title>
+      <link>http://pc.jovial.com//posts/2017-07-25-hospital.html</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2017-07-25-hospital.html</guid>
+        <description>
+          A motorcycle ran into me and broke my leg rather badly, so I'm coming home soon.  This post was written a little over a week after the accident, from a hospital bed in Rabat, Morocco.
         </description>
     </item>
   </channel> 
