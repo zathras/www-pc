@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Adventures of Burkinabè Bill</title>
-    <link>http://pc.jovial.com/burkina/</link>
-    <atom:link href="http://pc.jovial.com/burkina/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://pc.jovial.com/burkina/</link>
+    <atom:link href="https://pc.jovial.com/burkina/feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Burkina Faso starting in June 2017</description>
     <language>en-us</language>
-    <pubDate>Wed, 24 Apr 2019 11:53:06 -0700</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2019 11:53:06 -0700</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2019 12:06:21 -0700</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 12:06:21 -0700</lastBuildDate>
     <item>
       <title>The Road to Burkina Faso</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-01-18-why-pc.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-01-18-why-pc.html</link>
       <pubDate>Wed, 18 Jan 2017 00:00:00 -0800</pubDate>
       <guid isPermaLink="true">posts/2017-01-18-why-pc.html</guid>
         <description>
@@ -19,7 +19,7 @@
     </item>
     <item>
       <title>Waiting for Clearances</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-02-26-waiting.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-02-26-waiting.html</link>
       <pubDate>Sun, 26 Feb 2017 00:00:00 -0800</pubDate>
       <guid isPermaLink="true">posts/2017-02-26-waiting.html</guid>
         <description>
@@ -28,7 +28,7 @@
     </item>
     <item>
       <title>Clearances Received!</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-04-12-clearances-received.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-04-12-clearances-received.html</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-04-12-clearances-received.html</guid>
         <description>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>Pre-Departure</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-06-10-pre-departure.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-06-10-pre-departure.html</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-06-10-pre-departure.html</guid>
         <description>
@@ -46,7 +46,7 @@
     </item>
     <item>
       <title>Arrived in Ouagadougou!</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-06-15-arrived.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-06-15-arrived.html</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-06-15-arrived.html</guid>
         <description>
@@ -55,7 +55,7 @@
     </item>
     <item>
       <title>Moving in to Léo</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-06-20-leo.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-06-20-leo.html</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-06-20-leo.html</guid>
         <description>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>Happy Eid!</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-06-25-eidalfitr.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-06-25-eidalfitr.html</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-06-25-eidalfitr.html</guid>
         <description>
@@ -73,7 +73,7 @@
     </item>
     <item>
       <title>Attrition Strikes</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-07-04-attrition.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-07-04-attrition.html</link>
       <pubDate>Tue, 4 Jul 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-07-04-attrition.html</guid>
         <description>
@@ -82,7 +82,7 @@
     </item>
     <item>
       <title>Swaggy PC</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-07-05-swaggy.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-07-05-swaggy.html</link>
       <pubDate>Wed, 5 Jul 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-07-05-swaggy.html</guid>
         <description>
@@ -91,7 +91,7 @@
     </item>
     <item>
       <title>A Little Bit Country</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-07-10-campagne.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-07-10-campagne.html</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-07-10-campagne.html</guid>
         <description>
@@ -100,7 +100,7 @@
     </item>
     <item>
       <title>Some Challenges</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-07-15-challenges.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-07-15-challenges.html</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-07-15-challenges.html</guid>
         <description>
@@ -109,7 +109,7 @@
     </item>
     <item>
       <title>Bicycle/Motorcycle Accident</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-07-25-hospital.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-07-25-hospital.html</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-07-25-hospital.html</guid>
         <description>
@@ -118,7 +118,7 @@
     </item>
     <item>
       <title>Traveling from Morocco to L.A.</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-07-28-morocco_to_home.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-07-28-morocco_to_home.html</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-07-28-morocco_to_home.html</guid>
         <description>
@@ -127,7 +127,7 @@
     </item>
     <item>
       <title>Evacuation</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-09-02-evacuate.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-09-02-evacuate.html</link>
       <pubDate>Sat, 2 Sep 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-09-02-evacuate.html</guid>
         <description>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>Final Post</title>
-      <link>http://pc.jovial.com/burkina/posts/2017-09-03-final.html</link>
+      <link>https://pc.jovial.com/burkina/posts/2017-09-03-final.html</link>
       <pubDate>Sun, 3 Sep 2017 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2017-09-03-final.html</guid>
         <description>
