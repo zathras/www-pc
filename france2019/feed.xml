@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Bicycle Adventures in France</title>
+    <link>https://pc.jovial.com/france2019/</link>
+    <atom:link href="https://pc.jovial.com/france2019/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Bill's bicycle trip around France in the summer of 2019</description>
+    <language>en-us</language>
+    <pubDate>Sat, 15 Jun 2019 19:52:23 -0700</pubDate>
+    <lastBuildDate>Sat, 15 Jun 2019 19:52:23 -0700</lastBuildDate>
+    <item>
+      <title>Test Post</title>
+      <link>https://pc.jovial.com/france2019/posts/2019-06-15-test.html</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="true">posts/2019-06-15-test.html</guid>
+        <description>
+          This is only a test
+        </description>
+    </item>
+  </channel> 
+</rss>
