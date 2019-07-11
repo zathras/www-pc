@@ -6,15 +6,15 @@
     <atom:link href="https://pc.jovial.com/france2019/feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's bicycle trip around France in the summer of 2019</description>
     <language>en-us</language>
-    <pubDate>Wed, 19 Jun 2019 18:43:32 -0700</pubDate>
-    <lastBuildDate>Wed, 19 Jun 2019 18:43:32 -0700</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2019 01:30:50 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2019 01:30:50 +0200</lastBuildDate>
     <item>
-      <title>Test Post</title>
-      <link>https://pc.jovial.com/france2019/posts/2019-06-15-test.html</link>
-      <pubDate>Sat, 15 Jun 2019 00:00:00 -0700</pubDate>
-      <guid isPermaLink="true">posts/2019-06-15-test.html</guid>
+      <title>Arrival in Toulouse</title>
+      <link>https://pc.jovial.com/france2019/posts/2019-07-07-toulouse-arrival.html</link>
+      <pubDate>Sun, 7 Jul 2019 00:00:00 +0200</pubDate>
+      <guid isPermaLink="true">posts/2019-07-07-toulouse-arrival.html</guid>
         <description>
-          This is only a test
+          Made it to Toulouse!  So far, thing are going well:  I bought a biycle, got some theater tickets, and generally got oriented.
         </description>
     </item>
   </channel> 
