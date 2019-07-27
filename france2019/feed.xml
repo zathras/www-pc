@@ -6,8 +6,8 @@
     <atom:link href="https://pc.jovial.com/france2019/feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's bicycle trip around France in the summer of 2019</description>
     <language>en-us</language>
-    <pubDate>Sun, 21 Jul 2019 11:43:48 +0200</pubDate>
-    <lastBuildDate>Sun, 21 Jul 2019 11:43:48 +0200</lastBuildDate>
+    <pubDate>Sat, 27 Jul 2019 13:58:53 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Jul 2019 13:58:53 +0200</lastBuildDate>
     <item>
       <title>Arrival in Toulouse</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-11-toulouse-arrival.html</link>
@@ -42,6 +42,15 @@
       <guid isPermaLink="true">posts/2019-07-20-up-the-coast.html</guid>
         <description>
           I've gone too far, too fast; time to slow down.
+        </description>
+    </item>
+    <item>
+      <title>Flat tire!  Broken spoke!  Rain!  And some wonderful people...</title>
+      <link>https://pc.jovial.com/france2019/posts/2019-07-27-broken-spoke.html</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0200</pubDate>
+      <guid isPermaLink="true">posts/2019-07-27-broken-spoke.html</guid>
+        <description>
+          I got a flat tire, and soon after noticed a broken spoke, on the peak day of the heat wave.  Quite an afternoon!  But it's all fixed now, and I met some wonderful people along the way.
         </description>
     </item>
   </channel> 
