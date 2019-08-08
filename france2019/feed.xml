@@ -6,8 +6,8 @@
     <atom:link href="https://pc.jovial.com/france2019/feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's bicycle trip around France in the summer of 2019</description>
     <language>en-us</language>
-    <pubDate>Wed, 31 Jul 2019 18:12:40 +0200</pubDate>
-    <lastBuildDate>Wed, 31 Jul 2019 18:12:40 +0200</lastBuildDate>
+    <pubDate>Thu, 8 Aug 2019 22:36:06 +0200</pubDate>
+    <lastBuildDate>Thu, 8 Aug 2019 22:36:06 +0200</lastBuildDate>
     <item>
       <title>Arrival in Toulouse</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-11-toulouse-arrival.html</link>
@@ -69,6 +69,15 @@
       <guid isPermaLink="true">posts/2019-07-31-angers.html</guid>
         <description>
           The château that is so angry it cannot move.  It cannot eat.  It cannot sleep.  It can just barely growl.  -- Bound so tightly with tension and anger, it approaches the state of rigor mortis.
+        </description>
+    </item>
+    <item>
+      <title>The high point of my trip</title>
+      <link>https://pc.jovial.com/france2019/posts/2019-08-08-gien.html</link>
+      <pubDate>Thu, 8 Aug 2019 00:00:00 +0200</pubDate>
+      <guid isPermaLink="true">posts/2019-08-08-gien.html</guid>
+        <description>
+          Orléans marks the high point of my trip, in that it's the furthest point north.  Also, I get to install a new tire, and a new luggage rack!  And, I think I've reached peak tacos.
         </description>
     </item>
   </channel> 
