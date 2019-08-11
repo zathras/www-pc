@@ -6,8 +6,8 @@
     <atom:link href="https://pc.jovial.com/france2019/feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's bicycle trip around France in the summer of 2019</description>
     <language>en-us</language>
-    <pubDate>Thu, 8 Aug 2019 22:46:09 +0200</pubDate>
-    <lastBuildDate>Thu, 8 Aug 2019 22:46:09 +0200</lastBuildDate>
+    <pubDate>Sun, 11 Aug 2019 18:04:49 +0200</pubDate>
+    <lastBuildDate>Sun, 11 Aug 2019 18:04:49 +0200</lastBuildDate>
     <item>
       <title>Arrival in Toulouse</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-11-toulouse-arrival.html</link>
@@ -78,6 +78,15 @@
       <guid isPermaLink="true">posts/2019-08-08-gien.html</guid>
         <description>
           Orléans marks the high point of my trip, in that it's the furthest point north.  Also, I get to install a new tire, and a new luggage rack!  And, I think I've reached peak tacos.
+        </description>
+    </item>
+    <item>
+      <title>Nevers on a Sunday</title>
+      <link>https://pc.jovial.com/france2019/posts/2019-08-11-nevers.html</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0200</pubDate>
+      <guid isPermaLink="true">posts/2019-08-11-nevers.html</guid>
+        <description>
+          A canal bridge, and power that's clean!  Safe!  Too cheap to meter!  Also, new break pads for my bike.  Finally, a lazy Sunday in Nevers.
         </description>
     </item>
   </channel> 
