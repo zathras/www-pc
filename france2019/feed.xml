@@ -6,12 +6,12 @@
     <atom:link href="https://pc.jovial.com/france2019/feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's bicycle trip around France in the summer of 2019</description>
     <language>en-us</language>
-    <pubDate>Fri, 6 Sep 2019 22:44:55 +0200</pubDate>
-    <lastBuildDate>Fri, 6 Sep 2019 22:44:55 +0200</lastBuildDate>
+    <pubDate>Fri, 13 Sep 2019 06:12:08 -0700</pubDate>
+    <lastBuildDate>Fri, 13 Sep 2019 06:12:08 -0700</lastBuildDate>
     <item>
       <title>Arrival in Toulouse</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-11-toulouse-arrival.html</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-07-11-toulouse-arrival.html</guid>
         <description>
           Made it to Toulouse!  So far, thing are going well:  I bought a biycle, got some theater tickets, and generally got oriented.
@@ -20,7 +20,7 @@
     <item>
       <title>Maiden voyage</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-14-got-bike.html</link>
-      <pubDate>Sun, 14 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-07-14-got-bike.html</guid>
         <description>
           I got my wonderful new bicycle and took it out for a maiden voyage.  Also, a quick trip to Carcassonne, a nice outing to a café-théâtre, and a wonderful meal at a restaurant called "the dirty brts."
@@ -29,7 +29,7 @@
     <item>
       <title>Bastille day, and first long ride.</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-16-first-long-ride.html</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-07-16-first-long-ride.html</guid>
         <description>
           The first day's ride went pretty well, with a couple of wrong turns and some headwinds.
@@ -38,7 +38,7 @@
     <item>
       <title>Too many kilometers!</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-20-up-the-coast.html</link>
-      <pubDate>Sat, 20 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-07-20-up-the-coast.html</guid>
         <description>
           I've gone too far, too fast; time to slow down.
@@ -47,7 +47,7 @@
     <item>
       <title>Flat tire!  Broken spoke!  Rain!  And some wonderful people...</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-27-broken-spoke.html</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-07-27-broken-spoke.html</guid>
         <description>
           I got a flat tire, and soon after noticed a broken spoke, on the peak day of the heat wave.  Quite an afternoon!  But it's all fixed now, and I met some wonderful people along the way.
@@ -56,7 +56,7 @@
     <item>
       <title>Turning a corner</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-29-nantes.html</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-07-29-nantes.html</guid>
         <description>
           My trip turned a corner - I turned right at the Loire river.  This took me to Nantes, home of the steampunk elephant.
@@ -65,7 +65,7 @@
     <item>
       <title>The Angriest Château in the World</title>
       <link>https://pc.jovial.com/france2019/posts/2019-07-31-angers.html</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-07-31-angers.html</guid>
         <description>
           The château that is so angry it cannot move.  It cannot eat.  It cannot sleep.  It can just barely growl.  -- Bound so tightly with tension and anger, it approaches the state of rigor mortis.
@@ -74,7 +74,7 @@
     <item>
       <title>The high point of my trip</title>
       <link>https://pc.jovial.com/france2019/posts/2019-08-08-gien.html</link>
-      <pubDate>Thu, 8 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 8 Aug 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-08-08-gien.html</guid>
         <description>
           Orléans marks the high point of my trip, in that it's the furthest point north.  Also, I get to install a new tire, and a new luggage rack!  And, I think I've reached peak tacos.
@@ -83,7 +83,7 @@
     <item>
       <title>Nevers on a Sunday</title>
       <link>https://pc.jovial.com/france2019/posts/2019-08-11-nevers.html</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-08-11-nevers.html</guid>
         <description>
           A canal bridge, and power that's clean!  Safe!  Too cheap to meter!  Also, new brake pads for my bike.  Finally, a lazy Sunday in Nevers.
@@ -92,7 +92,7 @@
     <item>
       <title>Goodbye, Loire!</title>
       <link>https://pc.jovial.com/france2019/posts/2019-08-15-montchanin.html</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-08-15-montchanin.html</guid>
         <description>
           Going through some decidedly less touristy terrain
@@ -101,7 +101,7 @@
     <item>
       <title>Eliette</title>
       <link>https://pc.jovial.com/france2019/posts/2019-08-19-varennes.html</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-08-19-varennes.html</guid>
         <description>
           I got to meet and stay with my friend Céline's mom, Eliette, just South of Chalon-sur-Saône.
@@ -110,7 +110,7 @@
     <item>
       <title>Mountains!</title>
       <link>https://pc.jovial.com/france2019/posts/2019-08-25-veyrins.html</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-08-25-veyrins.html</guid>
         <description>
           Back on the road, and climbing up along the Rhône.
@@ -119,7 +119,7 @@
     <item>
       <title>Hello Jet d'Eau!</title>
       <link>https://pc.jovial.com/france2019/posts/2019-08-29-geneva.html</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-08-29-geneva.html</guid>
         <description>
           A couple of nice towns along the partially-finished EV-17 route from Lyon to Geneva.  Next, a bit of a climb, then Geneva!
@@ -128,7 +128,7 @@
     <item>
       <title>Beyond Geneva</title>
       <link>https://pc.jovial.com/france2019/posts/2019-09-03-yvonand.html</link>
-      <pubDate>Tue, 3 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 3 Sep 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-09-03-yvonand.html</guid>
         <description>
           Since I got to Geneva a week and a half earlier than I needed to, I was more or less forced to go on a bicycle tour of Switzerland.  Don't you hate when that happens?
@@ -137,10 +137,19 @@
     <item>
       <title>Up, up and away!</title>
       <link>https://pc.jovial.com/france2019/posts/2019-09-06-holderbank.html</link>
-      <pubDate>Fri, 6 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 6 Sep 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="true">posts/2019-09-06-holderbank.html</guid>
         <description>
           Continuing up through Switzerland, to the idyllic mountain town of Holderbank.
+        </description>
+    </item>
+    <item>
+      <title>Goodbye, Europe!</title>
+      <link>https://pc.jovial.com/france2019/posts/2019-09-13-plane.html</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="true">posts/2019-09-13-plane.html</guid>
+        <description>
+          I made it up to Basel, and spent a couple of days there.  A loop through Germany and a loop through France were nice, too.  Now I'm ready for my week in L.A., on the way to Senegal!
         </description>
     </item>
   </channel> 
