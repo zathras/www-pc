@@ -6,8 +6,8 @@
     <atom:link href="https://pc.jovial.com/senegal/feed.xml" rel="self" type="application/rss+xml" />
     <description>Bill's Peace Corps service in Senegal starting in September 2019</description>
     <language>en-us</language>
-    <pubDate>Sat, 28 Sep 2019 02:59:24 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Sep 2019 02:59:24 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2019 10:43:32 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2019 10:43:32 +0000</lastBuildDate>
     <item>
       <title>Bismillah!</title>
       <link>https://pc.jovial.com/senegal/posts/2019-09-27-arrived.html</link>
@@ -15,6 +15,15 @@
       <guid isPermaLink="true">posts/2019-09-27-arrived.html</guid>
         <description>
           Welcome (back) to my blog!  I'm back in the Peace Corps, this time in Senegal as an "Agroforestry change agent."
+        </description>
+    </item>
+    <item>
+      <title>That was quick :-(</title>
+      <link>https://pc.jovial.com/senegal/posts/2019-10-10-quick.html</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">posts/2019-10-10-quick.html</guid>
+        <description>
+          I'm sorry to say that I'm leaving Senegal and going back home tomorrow, for medical reasons.  Nothing really bad, and I'll be fine.
         </description>
     </item>
   </channel> 
